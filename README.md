@@ -1,4 +1,4 @@
-# ringmod
+# RingMod
 The "One Ring" (modulator)
 
 Based on the original shematic by Ken Stone. All rights remain with him. https://sdiy.info/wiki/CGS_active_real_ring_modulator
